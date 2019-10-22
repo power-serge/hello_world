@@ -5,10 +5,10 @@ public class hello {
     public static void main(String [] args) {
 
 
-        String firstName = "Elizabeth";
-        String lastName = "Jones";
+        String firstName = "Sergio";
+        String lastName = "Yraita, Jr.";
 	
-        System.out.println("Hello Class!");
+        System.out.println("Hello my name is " + firstName +" "+ lastName);
 
 
 
